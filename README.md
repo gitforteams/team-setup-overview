@@ -29,3 +29,5 @@ License
 
 - Copyright (c) 2015 Emma Jane Hogbin Westby
 - Available by license: CC-BY. You are welcome to build on this presentation so long as you provide credit to the original author(s).
+
+Software for the slides provided by reveal.js. Additional information available in [README-revealjs.md](README-revealjs.md).
