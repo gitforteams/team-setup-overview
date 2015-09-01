@@ -7,11 +7,17 @@
 a:href {
   text-decoration: underline; }
 
-img[alt=cover_illustration] {
+.reveal img[src$="png"] {
+  max-height: 80%; }
+
+.reveal img[src$="png"] {
+  max-width: 80%; }
+
+.reveal img[alt=cover_illustration] {
   height: 300px; }
 
-img[src$="svg"] {
-  height: 100%; }
+.reveal img[alt$=small] {
+  max-height: 600px; }
 
 code {
   padding: 1px;

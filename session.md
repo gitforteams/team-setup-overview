@@ -128,17 +128,17 @@ Important questions:
 
 ## Scheduled Release
 
-![GitFlow](assets/03fig12-gitflow-hotfix.svg)
+![GitFlow](assets/03fig12-gitflow-hotfix.svg.png)
 
 
 ## Branch-Per-Feature
 
-![GitHub Flow](assets/03fig04-github-flow.svg)
+![GitHub Flow](assets/03fig04-github-flow.svg.png)
 
 
 ## State Branching
 
-![GitLab Flow](assets/03fig06-env-branches.svg)
+![GitLab Flow](assets/03fig06-env-branches.svg.png)
 
 
 ## Choose and Use a Strategy
@@ -243,27 +243,27 @@ Important questions:
 
 
 ### Centralised Systems
-![Centralised: Subversion](assets/02fig01-centralized.svg)
+![Centralised: Subversion](assets/02fig01-centralized.svg.png)
 
 
 ### Basic Setup with Central Repo
-![Decentralised](assets/02fig02-decentralized.svg)
+![Decentralised](assets/02fig02-decentralized.svg.png)
 
 
 ### "Ancient" Patching Workflow
-![Patching workflow](assets/02fig03-patched.svg)
+![Patching workflow](assets/02fig03-patched.svg.png)
 
 
 ### Forking Workflow -- Pull Requests
-![Forking workflow - with chained access](assets/02fig05-forking-chain.svg)
+![Forking workflow - with chained access - small](assets/02fig05-forking-chain.svg.png)
 
 
 ### Forking Workflow -- Example
-![Forking workflow - pull requests](assets/02fig06-forking-pull-request.svg)
+![Forking workflow - pull requests](assets/02fig06-forking-pull-request.svg.png)
 
 
 ### All Access Workflow 
-![Branching workflow](assets/02fig07-branching.svg)
+![Branching workflow](assets/02fig07-branching.svg.png)
 
 
 ----
