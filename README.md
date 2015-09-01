@@ -1,5 +1,5 @@
-Git for Teams Design Decisions - Presentation Repository
-========================================================
+Demystifying Setup for Git Teams - Presentation Repository
+==========================================================
 
 Let's face it, everyone can punch some commands into Git and make things go splat. That's the easy part. Understanding *why* and *when* to apply various commands is the hard part of learning to be an effective Git team player. This session will briefly cover the four most important factors that will determine your project's success in working with Git:
 
@@ -28,7 +28,7 @@ Alternate Titles
 
 Online:
 
-- [emmajane.github.io/git-design-decisions](http://emmajane.github.io/git-design-decisions) is often in sync with this repository
+- [emmajane.github.io/git-team-setup-overview](http://emmajane.github.io/git-team-setup-overview) is often in sync with this repository
 
 Locally:
 

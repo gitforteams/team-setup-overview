@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="2.3706667in"
+   width="6.6313863in"
+   version="1.1"
+   viewBox="0 0 596.82477 213.36001"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="02fig06-forking-pull-request.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1408"
+     inkscape:window-height="855"
+     id="namedview3433"
+     showgrid="false"
+     inkscape:zoom="1.0936508"
+     inkscape:cx="350.21946"
+     inkscape:cy="-5.356061"
+     inkscape:window-x="32"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <marker
+       id="Arrow2Lend"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440-7"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440-4-5"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="Arrow2Lend-8-0-6"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440-4-5-7"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440-7-2"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0.63462004;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.63462004" />
+    </marker>
+    <marker
+       id="Arrow2Lend-3-3-3"
+       refY="0"
+       refX="0"
+       orient="auto"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path4440-7-2-1"
+         d="M 8.7186,4.0337 -2.2074,0.016 8.7186,-4.0017 c -1.7455,2.3721 -1.7354,5.6175 -6e-7,8.0354 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0.63462004;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:0.63462004" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-48.654277,-443.74402)">
+    <g
+       id="g3505"
+       transform="translate(0.71429,-59.286)">
+      <ellipse
+         id="path4337"
+         rx="132.57964"
+         ry="106.68"
+         cy="609.71002"
+         cx="180.51962"
+         style="fill:#e6e6e6" />
+      <text
+         id="text4401"
+         style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+         line-height="125%"
+         font-size="14.168px"
+         y="542.47772"
+         x="112.98729"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4405"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="542.47772"
+           x="112.98729"
+           style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">GitHub</tspan></text>
+    </g>
+    <path
+       id="path4413"
+       d="m 369.47511,588.15961 c -21.96684,16.21459 -44.17847,21.66347 -92.37846,-8.66684"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend)"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path4413-0"
+       d="m 279.29896,528.71503 c 21.12347,-6.85752 58.55866,-44.50042 86.32866,13.96828"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3)"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4401-0"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="610.34302"
+       x="328.67752"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4405-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="610.34302"
+         x="328.67752"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">push</tspan></text>
+    <text
+       id="text4401-0-3"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="524.49713"
+       x="365.8931"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4405-2-2"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="524.49713"
+         x="365.8931"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">clone</tspan></text>
+    <g
+       id="g3505-4"
+       transform="translate(16.399093,153.68689)">
+      <g
+         id="g8253"
+         transform="translate(25.254,-147.48)">
+        <ellipse
+           id="path4337-3"
+           rx="43.723999"
+           ry="26.070999"
+           cy="550.10999"
+           cx="210.12"
+           style="fill:#ffffff" />
+        <text
+           id="text4401-3"
+           style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
+           xml:space="preserve"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="545.85809"
+           x="209.59386"
+           line-height="125%"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan12545"
+             style="text-align:center;text-anchor:middle"
+             y="545.85809"
+             x="209.59386">personal, forked copy</tspan><tspan
+             id="tspan12549"
+             style="text-align:center;text-anchor:middle"
+             y="559.92059"
+             x="209.59386">of reveal.js repository</tspan></text>
+      </g>
+    </g>
+    <path
+       id="path4413-1-2"
+       d="m 458.83002,601.90316 c -20.23624,13.75157 -56.0822,10.55135 -70.51931,-3.97589"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-8-0)"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4401-0-5"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="530.83337"
+       x="445.15771"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4405-2-6"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="530.83337"
+         x="445.15771"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">checkout</tspan></text>
+    <path
+       id="path4413-1-2-8"
+       d="m 403.75835,545.172 c 20.452,-9.9062 40.062,-15.27562 57.855,2.06758"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-8-0-6)"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path4413-0-4"
+       d="m 259.19,587.64 c -33.08,39.42 -104.94,45.32 -137.77,-1.03"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-dasharray:2, 2;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3)" />
+    <text
+       id="text4401-0-9-0"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="512.15686"
+       x="232.46098"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5486"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro';text-align:end;text-anchor:end"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="512.15686"
+         x="232.46098">fork</tspan></text>
+    <text
+       id="text4401-0-9-4"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="621.44208"
+       x="431.25781"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4405-2-1-3"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="621.44208"
+         x="431.25781"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">commit</tspan></text>
+    <path
+       id="path4413-0-4-1"
+       d="m 145.6,528.51 c 0,0 62.03225,-40.46437 85.20225,2.03983"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-dasharray:2, 2;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3-3)"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text6524"
+       style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
+       xml:space="preserve"
+       font-size="11.25px"
+       font-stretch="condensed"
+       line-height="125%"
+       y="630.11987"
+       x="165.09796"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan6528"
+         x="165.09796"
+         y="630.11987">pull request</tspan></text>
+    <g
+       id="g10029"
+       transform="translate(-1.0102,-27.274)">
+      <ellipse
+         id="path4337-3-6"
+         rx="42.714001"
+         ry="26.070999"
+         cy="583.65002"
+         cx="128.28999"
+         style="fill:#ffffff" />
+      <text
+         id="text10025"
+         style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
+         font-size="11.25px"
+         font-stretch="condensed"
+         line-height="125%"
+         y="579.67169"
+         x="126.70488"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan10027"
+           y="579.67169"
+           x="126.70488">reveal.js</tspan><tspan
+           id="tspan12539"
+           y="593.73419"
+           x="126.70488">official repository</tspan></text>
+    </g>
+    <g
+       id="g3505-4-7"
+       transform="translate(154.49107,166.12316)">
+      <g
+         id="g8253-0"
+         transform="translate(11.53847,-145.65126)">
+        <ellipse
+           id="path4337-3-2"
+           rx="43.723999"
+           ry="26.070999"
+           cy="550.10999"
+           cx="210.12"
+           style="fill:#e6e6e6" />
+        <text
+           id="text4401-3-3"
+           style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
+           xml:space="preserve"
+           font-size="11.25px"
+           font-stretch="condensed"
+           y="545.85809"
+           x="209.59386"
+           line-height="125%"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan12545-0"
+             style="text-align:center;text-anchor:middle"
+             y="545.85809"
+             x="209.59386">local clone</tspan><tspan
+             id="tspan12549-0"
+             style="text-align:center;text-anchor:middle"
+             y="559.92059"
+             x="209.59386">of reveal.js repository</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4380"
+       transform="matrix(0.49709,0,0,0.49709,644.90387,343.67385)">
+      <path
+         id="path3350"
+         d="m -351.21,442.83 c -31.082,-35.991 12.765,-81.19 53.838,-59.057 13.481,8.1844 22.012,28.556 18.248,43.973 -2.5361,10.386 -13.067,17.032 -13.067,17.032 z"
+         inkscape:connector-curvature="0"
+         style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:0.50642002px" />
+      <ellipse
+         id="path3340"
+         rx="30.636"
+         ry="30.077999"
+         cy="419.70999"
+         cx="-324.57999"
+         style="fill:#f9f9f9" />
+      <path
+         id="path3348"
+         d="m -365.57,544.19 c 0,0 47.496,-2.4163 96.98,0.14794 l -34.53,-99.161 c -21.188,20.992 -40.45,1.3658 -40.45,1.3658 z"
+         inkscape:connector-curvature="0"
+         style="fill:#e6e6e6;fill-rule:evenodd;stroke:#000000;stroke-width:0.42614001px" />
+      <ellipse
+         id="path4185"
+         rx="3.1238999"
+         ry="2.7902999"
+         cy="418.16"
+         cx="-332.45001"
+         style="fill:#2b0000" />
+      <path
+         id="path4250"
+         d="m -335.63,424.55 c 0,0 2.308,10.064 8.9157,10.479 6.7604,0.4246 12.771,-9.3463 12.771,-9.3463"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.36574px" />
+      <ellipse
+         id="path4185-0"
+         rx="3.1238999"
+         ry="2.7902999"
+         cy="418.07999"
+         cx="-319.64001"
+         style="fill:#2b0000" />
+      <path
+         id="path4250-5"
+         d="m -331.16,422.23 c 0,0 0.81097,3.3534 3.1328,3.4917 2.3755,0.14147 4.4875,-3.1142 4.4875,-3.1142"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.12514px" />
+      <g
+         id="g13331"
+         style="fill:#b3b3b3;fill-rule:evenodd">
+        <path
+           id="path4156"
+           d="m -357.1,410.2 c 14.706,-4.7599 31.355,-3.148 44.875,4.3443 9.1942,5.0954 16.919,12.808 22.03,21.993 5.1,-7.8489 7.03,-17.696 5.2704,-26.889 -1.7597,-9.1934 -7.1895,-17.631 -14.828,-23.042 -5.0231,-3.5584 -10.955,-5.8228 -17.071,-6.517 -6.1165,-0.69422 -12.405,0.18326 -18.098,2.5254 -5.6928,2.3421 -10.778,6.1439 -14.635,10.941 -3.8571,4.7975 -6.478,10.581 -7.5428,16.644 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path13324"
+           d="m -354.64,408.03 c 2.0227,6.7061 3.6409,6.8585 3.6409,6.8585 l 1.2136,-6.7061 4.0455,4.2675 2.0228,-5.944 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g4345"
+       transform="translate(80.464441,-297.16981)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-opacity:0.63462004"
+         x="441.28268"
+         y="765.78711"
+         width="8.5862999"
+         height="8.5862999"
+         id="rect13211" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-opacity:0.63462004"
+         x="441.28268"
+         y="779.92712"
+         width="8.5862999"
+         height="8.5862999"
+         id="rect13261" />
+      <text
+         sodipodi:linespacing="125%"
+         x="454.16235"
+         y="773.36072"
+         line-height="125%"
+         font-stretch="condensed"
+         font-size="11.25px"
+         xml:space="preserve"
+         style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';letter-spacing:0px;word-spacing:0px;fill:#000000"
+         id="text13263"><tspan
+           y="773.36072"
+           x="454.16235"
+           id="tspan13265">forked the project</tspan><tspan
+           y="787.42322"
+           x="454.16235"
+           id="tspan13267">cloned the remote</tspan><tspan
+           y="801.48578"
+           x="454.16235"
+           id="tspan13269">created a new local branch</tspan><tspan
+           y="815.54828"
+           x="454.16235"
+           id="tspan13271">checked out the new branch</tspan><tspan
+           y="829.61078"
+           x="454.16235"
+           id="tspan13273">edited files to match OSCON CSS</tspan><tspan
+           y="843.67328"
+           x="454.16235"
+           id="tspan13275">committed new CSS changes</tspan><tspan
+           y="857.73578"
+           x="454.16235"
+           id="tspan13277">pushed branch to cloned remote</tspan><tspan
+           y="871.79828"
+           x="454.16235"
+           id="tspan13279">submitted a pull request</tspan></text>
+      <g
+         style="fill:none;stroke:#000000"
+         transform="translate(423.35268,141.72714)"
+         id="g3413">
+        <g
+           style="stroke-opacity:0.63462004"
+           id="g3415">
+          <rect
+             x="17.93"
+             y="651.33002"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13283" />
+          <rect
+             x="17.93"
+             y="665.97998"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13285" />
+          <rect
+             x="17.93"
+             y="680.12"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13287" />
+          <rect
+             x="17.93"
+             y="694.77002"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13289" />
+          <rect
+             x="17.93"
+             y="708.90997"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13291" />
+          <rect
+             x="17.93"
+             y="722.54999"
+             width="8.5862999"
+             height="8.5862999"
+             id="rect13293" />
+        </g>
+        <g
+           style="stroke-width:0.44339001px"
+           id="g3423">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,628.06 1.8427,2.8435 4.2119,-6.0823"
+             id="path13297" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,726.55 1.8427,2.8435 4.2119,-6.0823"
+             id="path13308" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,713.41 1.8427,2.8435 4.2119,-6.0823"
+             id="path13310" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,698.77 1.8427,2.8435 4.2119,-6.0823"
+             id="path13312" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,684.12 1.8427,2.8435 4.2119,-6.0823"
+             id="path13314" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,669.98 1.8427,2.8435 4.2119,-6.0823"
+             id="path13316" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,655.33 1.8427,2.8435 4.2119,-6.0823"
+             id="path13318" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 19.231,642.2 1.8427,2.8435 4.2119,-6.0823"
+             id="path13322" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text4401-0-9-4-7"
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="589.69385"
+       x="473.96298"
+       line-height="125%"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4405-2-1-3-3"
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="589.69385"
+         x="473.96298"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'" /></text>
+    <text
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="589.69385"
+       x="473.96298"
+       line-height="125%"
+       sodipodi:linespacing="125%"
+       id="text4393"><tspan
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="589.69385"
+         x="473.96298"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'"
+         id="tspan4395" /></text>
+    <text
+       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       xml:space="preserve"
+       font-size="14.168px"
+       y="605.2381"
+       x="471.21988"
+       line-height="125%"
+       sodipodi:linespacing="125%"
+       id="text4397"><tspan
+         font-size="11.25px"
+         font-stretch="condensed"
+         y="605.2381"
+         x="471.21988"
+         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'"
+         id="tspan4399">directory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="485.52972"
+       y="594.26129"
+       id="text4402"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4404"
+         x="485.52972"
+         y="594.26129">working</tspan></text>
+  </g>
+</svg>

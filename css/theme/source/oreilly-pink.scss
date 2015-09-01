@@ -29,6 +29,9 @@ $linkColor: #000;
 $linkColorHover: lighten( $linkColor, 40% );
 $selectionColor: #fff;
 $selectionBackgroundColor: #ccc;
+a:href { text-decoration: underline; }
+img[alt=cover_illustration] { height: 300px; }
+img[src$="svg"] { height: 100% }
 
 code {
   padding: 1px;
