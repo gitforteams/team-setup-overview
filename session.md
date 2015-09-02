@@ -314,7 +314,7 @@ Emma Jane Hogbin Westby
 
 @emmajanehw
 
-[emmajane.github.io/team-setup-overview](http://emmajane.github.io/team-setup-overview)
+[emmajane.github.io/git-team-setup-overview](http://emmajane.github.io/git-team-setup-overview)
 
 [![cover_illustration](assets/gitforteams-cover.png)](http://shop.oreilly.com/product/0636920034520.do?cmp=af-prog-books-videos-product_cj_auwidget670_0636920034520_4470479)
 [![cover_illustration](assets/collabwithgit-cover.gif)](http://shop.oreilly.com/product/0636920034872.do?cmp=af-prog-books-videos-product_cj_auwidget671_0636920034872_4470479)
