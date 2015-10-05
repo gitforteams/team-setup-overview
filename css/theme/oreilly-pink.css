@@ -54,7 +54,7 @@ body {
   color: #B30A84;
   font-family: 'Open Sans Condensed', Impact, sans-serif;
   font-weight: normal;
-  line-height: 0.9em;
+  line-height: normal;
   letter-spacing: none;
   text-transform: none;
   text-shadow: none;
@@ -287,3 +287,15 @@ body {
   border: none;
   margin: 0;
   box-shadow: none; }
+
+.reveal ol, .reveal ul, .reveal dl {
+  margin: 0; }
+
+.reveal ol {
+  width: 50%; }
+
+.reveal pre code {
+  font-size: 1.5em;
+  max-height: inherit;
+  overflow: none;
+  padding: 15px; }

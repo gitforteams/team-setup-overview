@@ -49,7 +49,7 @@ $heading1TextShadow: none;
 $headingTextTransform: none;
 $headingLetterSpacing: none;
 $headingMargin: 0 0 20px 0;
-$headingLineHeight: 0.9em;
+$headingLineHeight: normal;
 
 // Links and actions
 $linkColor: #000;
@@ -64,4 +64,21 @@ $linkColorHover: lighten( $linkColor, 40% );
   border: none;
   margin: 0;
   box-shadow: none;
+}
+
+// Lists
+.reveal ol, .reveal ul, .reveal dl {
+  margin: 0;
+}
+
+.reveal ol {
+  width: 50%;
+}
+
+// Code
+.reveal pre code {
+  font-size: 1.5em;
+  max-height: inherit;
+  overflow: none;
+  padding: 15px;
 }
