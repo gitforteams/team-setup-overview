@@ -24,6 +24,9 @@ code {
   background-color: #fafafa;
   color: #000; }
 
+.reveal h1 strong, .reveal h2 strong, .reveal h3 strong {
+  color: #d6a; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/

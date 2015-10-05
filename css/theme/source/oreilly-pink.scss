@@ -50,6 +50,9 @@ $headingTextTransform: none;
 $headingLetterSpacing: none;
 $headingMargin: 0 0 20px 0;
 $headingLineHeight: normal;
+.reveal h1 strong, .reveal h2 strong, .reveal h3 strong {
+  color: #d6a;
+}
 
 // Links and actions
 $linkColor: #000;

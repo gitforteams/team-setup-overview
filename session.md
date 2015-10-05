@@ -63,6 +63,7 @@ Note: Git is notorious for its "holy wars". This makes it seem very complicated 
 
 
 ----
+Golden Rule #1
 # Talk to your teammates.
 
 
@@ -77,7 +78,13 @@ Note: Git is notorious for its "holy wars". This makes it seem very complicated 
 ![pull requests - chains repositories together](assets/02fig06-forking-pull-request.svg.png)
 
 
+## Golden Rule
+# Talk to your teammates.
+Map access, then map commands. Use **branch locking** or **forks** to control access.
+
+
 ----
+Golden Rule #2:
 # Separate your ideas.
 
 Note: How do you separate: work in progress and fully tested, approved work?
@@ -133,7 +140,13 @@ Note: If the review process has resulted in additional commits, squash these com
 ![merge or rebase flowchart](assets/rebase-or-merge.png)
 
 
+## Golden Rule
+# Separate your ideas.
+Every commit and each branch should hold a coherent unit of work.
+
+
 ----
+Golden Rule #3:
 # Be consistent.
 
 Note: How do you incorporate upstream work? aka How do you bring branches up to date? How do you combine newly approved work into your project's stable branch?
@@ -158,6 +171,7 @@ Note: Pull request is fetch + merge with no fast forwards. Creates a merge commi
 ![keep your graph clean](assets/merge-to-update.png)
 
 
+(if you care)
 ## Update with Rebase 
 
 ````
@@ -165,13 +179,19 @@ $ git pull --rebase=preserve
 ````
 
 
-## (if you care)
+![rebase animation](assets/rebasing-update-branch.svg)
 
 
 ![merge or rebase flowchart](assets/rebase-or-merge.png)
 
 
+## Golden Rule
+# Be consistent.
+Keep your history legible<br/>by having the team use a single strategy to update branches.
+
+
 ----
+Golden Rule #4
 # Include only what you need.
 
 Note: How do you manage dependencies? Where do you store very large files? How do optimise your build process for very fast deployments?
@@ -179,13 +199,17 @@ Note: How do you manage dependencies? Where do you store very large files? How d
 
 ## Outsource your dependency management
 
-- "Vendor branches" -- named branches for upstream work
-- Version only your build manifest
-- Subtrees -- nest repositories without tracking
-- Submodules -- nested repositories with hierarchical tracking
+Note: Version only your build manifest
 
 
-## Is bigger better? 
+## If you must include external work
+
+- Keep your "core" clean and track upstream work with named branches.
+- Nest repositories without tracking by using subtrees (clone inside a clone).
+- Git can track external repositories with submodules. There be dragons.
+
+
+## Store as much as you need, <br />but not more.
 
 
 # Monolith:
@@ -200,12 +224,12 @@ Note: Consider your audience: if you don't need to scale, and it's easier for yo
 Note: Think OOP: For separate functionality, use separate repositories. Pull together related pieces at build time.
 
 
-# Very large files are <br />... still large.
+# Binary files will grow with each version
 
 Note: Deployment binaries vs. project assets.
 
 
-## Use Offsite Storage for Very Large Files
+## Use offsite storage for very large files
 
 Do not version binaries in the repository; reference them from another location.
 
@@ -216,7 +240,7 @@ Do not version binaries in the repository; reference them from another location.
 Note: Best Practice. http://blogs.atlassian.com/2014/05/handle-big-repositories-git/
 
 
-## Use Shallow Clones for Faster Deployments
+## Use shallow clones for faster deployments
 
 Avoid grabbing all versions of a file for the deployment.
 
@@ -227,6 +251,12 @@ $ git clone --depth [depth] [remote-url]
 ````
 $ git clone [URL] --branch [branch_name] --single-branch [folder]
 ````
+
+
+## Golden Rule
+# Include only what you need.
+
+Outsource your dependency management. Break your repository into smaller service repositories when it's time. Binary files grow when versioned. Use shallow clones for faster deployments.
 
 
 ----
