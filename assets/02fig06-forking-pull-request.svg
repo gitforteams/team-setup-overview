@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,7 +144,7 @@
      transform="translate(-48.654277,-443.74402)">
     <g
        id="g3505"
-       transform="translate(0.71429,-59.286)">
+       transform="matrix(1.4306277,0,0,1.5314104,-81.192702,-404.32271)">
       <ellipse
          id="path4337"
          rx="132.57964"
@@ -170,49 +170,51 @@
     </g>
     <path
        id="path4413"
-       d="m 369.47511,588.15961 c -21.96684,16.21459 -44.17847,21.66347 -92.37846,-8.66684"
+       d="M 446.36673,587.18221 C 414.94037,612.0134 383.16379,620.35788 314.20755,573.90972"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend)"
+       style="fill:none;stroke:#000000;stroke-width:1.48016155px;marker-end:url(#Arrow2Lend)"
        sodipodi:nodetypes="cc" />
     <path
        id="path4413-0"
-       d="m 279.29896,528.71503 c 21.12347,-6.85752 58.55866,-44.50042 86.32866,13.96828"
+       d="m 317.35824,496.14817 c 30.21982,-10.50168 83.77564,-68.14841 123.50417,21.39117"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-3)"
+       style="fill:none;stroke:#000000;stroke-width:1.48016155px;marker-end:url(#Arrow2Lend-3)"
        sodipodi:nodetypes="cc" />
     <text
        id="text4401-0"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="610.34302"
-       x="328.67752"
+       y="600.36707"
+       x="401.43463"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan4405-2"
          font-size="11.25px"
          font-stretch="condensed"
-         y="610.34302"
-         x="328.67752"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">push</tspan></text>
+         y="600.36707"
+         x="401.43463"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro';font-weight:bold">push</tspan></text>
     <text
        id="text4401-0-3"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="524.49713"
-       x="365.8931"
+       y="473.30133"
+       x="456.51968"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan4405-2-2"
          font-size="11.25px"
          font-stretch="condensed"
-         y="524.49713"
-         x="365.8931"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">clone</tspan></text>
+         y="473.30133"
+         x="456.51968"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro';font-weight:bold">clone</tspan></text>
     <g
        id="g3505-4"
-       transform="translate(16.399093,153.68689)">
+       transform="matrix(1.4306277,0,0,1.5314104,-58.753588,-78.17382)">
       <g
          id="g8253"
          transform="translate(25.254,-147.48)">
@@ -245,88 +247,92 @@
     </g>
     <path
        id="path4413-1-2"
-       d="m 458.83002,601.90316 c -20.23624,13.75157 -56.0822,10.55135 -70.51931,-3.97589"
+       d="m 574.20034,608.22923 c -28.95052,21.0593 -80.23275,16.15845 -100.88687,-6.08872"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-8-0)"
+       style="fill:none;stroke:#000000;stroke-width:1.48016155px;marker-end:url(#Arrow2Lend-8-0)"
        sodipodi:nodetypes="cc" />
     <text
        id="text4401-0-5"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="530.83337"
-       x="445.15771"
+       y="482.67999"
+       x="573.84412"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan4405-2-6"
          font-size="11.25px"
          font-stretch="condensed"
-         y="530.83337"
-         x="445.15771"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">checkout</tspan></text>
+         y="482.67999"
+         x="573.84412"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro';font-weight:bold">checkout</tspan></text>
     <path
        id="path4413-1-2-8"
-       d="m 403.75835,545.172 c 20.452,-9.9062 40.062,-15.27562 57.855,2.06758"
+       d="m 495.41329,521.35054 c 29.25919,-15.17046 57.3138,-23.39324 82.76896,3.16631"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1px;marker-end:url(#Arrow2Lend-8-0-6)"
+       style="fill:none;stroke:#000000;stroke-width:1.48016155px;marker-end:url(#Arrow2Lend-8-0-6)"
        sodipodi:nodetypes="cc" />
     <path
        id="path4413-0-4"
-       d="m 259.19,587.64 c -33.08,39.42 -104.94,45.32 -137.77,-1.03"
+       d="M 288.5898,586.38648 C 241.26464,646.75467 138.45974,655.79 91.492228,584.80912"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-dasharray:2, 2;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3)" />
+       style="fill:none;stroke:#000000;stroke-width:1.48016155;stroke-dasharray:2.960323, 2.960323;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3)" />
     <text
        id="text4401-0-9-0"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="512.15686"
-       x="232.46098"
+       y="455.03574"
+       x="259.01862"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan5486"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro';text-align:end;text-anchor:end"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro';text-align:end;text-anchor:end"
          font-size="11.25px"
          font-stretch="condensed"
-         y="512.15686"
-         x="232.46098">fork</tspan></text>
+         y="455.03574"
+         x="259.01862">fork</tspan></text>
     <text
        id="text4401-0-9-4"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="621.44208"
-       x="431.25781"
+       y="616.79547"
+       x="553.27002"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan4405-2-1-3"
          font-size="11.25px"
          font-stretch="condensed"
-         y="621.44208"
-         x="431.25781"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'">commit</tspan></text>
+         y="616.79547"
+         x="553.27002"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro';font-weight:bold">commit</tspan></text>
     <path
        id="path4413-0-4-1"
-       d="m 145.6,528.51 c 0,0 62.03225,-40.46437 85.20225,2.03983"
+       d="m 126.0848,495.83418 c 0,0 88.74506,-61.96755 121.8927,3.12382"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-dasharray:2, 2;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3-3)"
+       style="fill:none;stroke:#000000;stroke-width:1.48016155;stroke-dasharray:2.960323, 2.960323;stroke-opacity:0.63462004;marker-end:url(#Arrow2Lend-3-3-3)"
        sodipodi:nodetypes="cc" />
     <text
        id="text6524"
-       style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
+       style="font-stretch:condensed;font-size:16.65181732px;line-height:125%;font-family:'Myriad Pro';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000"
        xml:space="preserve"
        font-size="11.25px"
        font-stretch="condensed"
        line-height="125%"
-       y="630.11987"
-       x="165.09796"
-       sodipodi:linespacing="125%"><tspan
+       y="629.64001"
+       x="159.31047"
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan6528"
-         x="165.09796"
-         y="630.11987">pull request</tspan></text>
+         x="159.31047"
+         y="629.64001">pull request</tspan></text>
     <g
        id="g10029"
-       transform="translate(-1.0102,-27.274)">
+       transform="matrix(1.4306277,0,0,1.5314104,-83.659802,-355.2992)">
       <ellipse
          id="path4337-3-6"
          rx="42.714001"
@@ -353,7 +359,7 @@
     </g>
     <g
        id="g3505-4-7"
-       transform="translate(154.49107,166.12316)">
+       transform="matrix(1.4306277,0,0,1.5314104,138.80462,-59.128787)">
       <g
          id="g8253-0"
          transform="translate(11.53847,-145.65126)">
@@ -386,7 +392,7 @@
     </g>
     <g
        id="g4380"
-       transform="matrix(0.49709,0,0,0.49709,644.90387,343.67385)">
+       transform="matrix(0.71115071,0,0,0.76124879,840.40274,212.77418)">
       <path
          id="path3350"
          d="m -351.21,442.83 c -31.082,-35.991 12.765,-81.19 53.838,-59.057 13.481,8.1844 22.012,28.556 18.248,43.973 -2.5361,10.386 -13.067,17.032 -13.067,17.032 z"
@@ -441,194 +447,65 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <g
-       id="g4345"
-       transform="translate(80.464441,-297.16981)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-opacity:0.63462004"
-         x="441.28268"
-         y="765.78711"
-         width="8.5862999"
-         height="8.5862999"
-         id="rect13211" />
-      <rect
-         style="fill:none;stroke:#000000;stroke-opacity:0.63462004"
-         x="441.28268"
-         y="779.92712"
-         width="8.5862999"
-         height="8.5862999"
-         id="rect13261" />
-      <text
-         sodipodi:linespacing="125%"
-         x="454.16235"
-         y="773.36072"
-         line-height="125%"
-         font-stretch="condensed"
-         font-size="11.25px"
-         xml:space="preserve"
-         style="font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';letter-spacing:0px;word-spacing:0px;fill:#000000"
-         id="text13263"><tspan
-           y="773.36072"
-           x="454.16235"
-           id="tspan13265">forked the project</tspan><tspan
-           y="787.42322"
-           x="454.16235"
-           id="tspan13267">cloned the remote</tspan><tspan
-           y="801.48578"
-           x="454.16235"
-           id="tspan13269">created a new local branch</tspan><tspan
-           y="815.54828"
-           x="454.16235"
-           id="tspan13271">checked out the new branch</tspan><tspan
-           y="829.61078"
-           x="454.16235"
-           id="tspan13273">edited files to match OSCON CSS</tspan><tspan
-           y="843.67328"
-           x="454.16235"
-           id="tspan13275">committed new CSS changes</tspan><tspan
-           y="857.73578"
-           x="454.16235"
-           id="tspan13277">pushed branch to cloned remote</tspan><tspan
-           y="871.79828"
-           x="454.16235"
-           id="tspan13279">submitted a pull request</tspan></text>
-      <g
-         style="fill:none;stroke:#000000"
-         transform="translate(423.35268,141.72714)"
-         id="g3413">
-        <g
-           style="stroke-opacity:0.63462004"
-           id="g3415">
-          <rect
-             x="17.93"
-             y="651.33002"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13283" />
-          <rect
-             x="17.93"
-             y="665.97998"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13285" />
-          <rect
-             x="17.93"
-             y="680.12"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13287" />
-          <rect
-             x="17.93"
-             y="694.77002"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13289" />
-          <rect
-             x="17.93"
-             y="708.90997"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13291" />
-          <rect
-             x="17.93"
-             y="722.54999"
-             width="8.5862999"
-             height="8.5862999"
-             id="rect13293" />
-        </g>
-        <g
-           style="stroke-width:0.44339001px"
-           id="g3423">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,628.06 1.8427,2.8435 4.2119,-6.0823"
-             id="path13297" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,726.55 1.8427,2.8435 4.2119,-6.0823"
-             id="path13308" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,713.41 1.8427,2.8435 4.2119,-6.0823"
-             id="path13310" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,698.77 1.8427,2.8435 4.2119,-6.0823"
-             id="path13312" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,684.12 1.8427,2.8435 4.2119,-6.0823"
-             id="path13314" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,669.98 1.8427,2.8435 4.2119,-6.0823"
-             id="path13316" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,655.33 1.8427,2.8435 4.2119,-6.0823"
-             id="path13318" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 19.231,642.2 1.8427,2.8435 4.2119,-6.0823"
-             id="path13322" />
-        </g>
-      </g>
-    </g>
     <text
        id="text4401-0-9-4-7"
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="589.69385"
-       x="473.96298"
+       y="569.80298"
+       x="616.48059"
        line-height="125%"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          id="tspan4405-2-1-3-3"
          font-size="11.25px"
          font-stretch="condensed"
-         y="589.69385"
-         x="473.96298"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'" /></text>
+         y="569.80298"
+         x="616.48059"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro'" /></text>
     <text
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="589.69385"
-       x="473.96298"
+       y="569.80298"
+       x="616.48059"
        line-height="125%"
        sodipodi:linespacing="125%"
-       id="text4393"><tspan
+       id="text4393"
+       transform="scale(0.96653487,1.0346238)"><tspan
          font-size="11.25px"
          font-stretch="condensed"
-         y="589.69385"
-         x="473.96298"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'"
+         y="569.80298"
+         x="616.48059"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro'"
          id="tspan4395" /></text>
     <text
-       style="font-size:14.16800022px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
+       style="font-size:20.97092819px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000"
        xml:space="preserve"
        font-size="14.168px"
-       y="605.2381"
-       x="471.21988"
+       y="592.81097"
+       x="612.42035"
        line-height="125%"
        sodipodi:linespacing="125%"
-       id="text4397"><tspan
+       id="text4397"
+       transform="scale(0.96653487,1.0346238)"><tspan
          font-size="11.25px"
          font-stretch="condensed"
-         y="605.2381"
-         x="471.21988"
-         style="font-stretch:condensed;font-size:11.25px;font-family:'Myriad Pro'"
+         y="592.81097"
+         x="612.42035"
+         style="font-stretch:condensed;font-size:16.65181732px;font-family:'Myriad Pro'"
          id="tspan4399">directory</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:11.25px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="485.52972"
-       y="594.26129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.65181732px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="633.6012"
+       y="576.56354"
        id="text4402"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(0.96653487,1.0346238)"><tspan
          sodipodi:role="line"
          id="tspan4404"
-         x="485.52972"
-         y="594.26129">working</tspan></text>
+         x="633.6012"
+         y="576.56354">working</tspan></text>
   </g>
 </svg>
