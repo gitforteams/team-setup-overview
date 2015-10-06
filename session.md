@@ -8,16 +8,25 @@ www.gitforteams.com
 
 
 ----
+# Who Thinks Git is <br />Weird and Hard?
+
+
+# Git is Easy?
+
+
+# Only Gits Raise Their Hand When Asked?
+
+
 # Git is Good...
 
 
-# Git is a very good<br />content tracker for text files.
+# Git is a great<br />**content tracker** for **text files**.
 
 
-## Git is very fast<br/>compared to centralized<br/>version control systems.
+## Git is very fast<br/>compared to centralised<br/>version control systems.
 
 
-# Git is Bad...
+# Git is not magic.
 
 
 # Git is not a dependency manager.
@@ -26,7 +35,7 @@ www.gitforteams.com
 # Git does not have access control.
 
 
-# Git takes whole file snapshots.
+# Git stores <br />whole file snapshots.
 
 
 # Git is not optimised for binary files.
@@ -37,7 +46,7 @@ www.gitforteams.com
 Note: This means versioning binary files and having very long histories (10k+ commits) will cause Git to become slow.
 
 
-# Git is not magic.
+# (where "very large" means 10,000+ commits)
 
 
 # Git Can Get Ugly...
@@ -45,7 +54,10 @@ Note: This means versioning binary files and having very long histories (10k+ co
 Note: Git is notorious for its "holy wars". This makes it seem very complicated and hard to learn. This presentation unpacks the rationale behind the most common arguments.
 
 
-# Git is hard to learn because we teach it the wrong way.
+# It's not really your fault though.
+
+
+## Git is weird and hard because <br/>the internals have strong opinions, <br />but the interface does not.
 
 
 ----
@@ -165,7 +177,7 @@ Note: How do you incorporate upstream work? aka How do you bring branches up to 
 - `rebase` => forward-port local commits
 - `cherry-pick` => merge individual commits
 
-Note: Pull request is fetch + merge with no fast forwards. Creates a merge commit. Often completed on a remote system with a one-click button. Forcing you into whatever workflow the UI has created for you. No flexibility! Merge request => setup the incoming work as a remote; review it locally; and then merge in the branch (or rebase!) however you would like. More steps to setup, but more control over how the work looks in the history graph.
+Note: Pull request is fetch + merge with no fast forwards. Creates a merge commit. Often completed on a remote system with a one-click button. Forcing you into whatever Work Flow the UI has created for you. No flexibility! Merge request => setup the incoming work as a remote; review it locally; and then merge in the branch (or rebase!) however you would like. More steps to setup, but more control over how the work looks in the history graph.
 
 
 ![keep your graph clean](assets/merge-to-update.png)
@@ -229,7 +241,7 @@ Note: Think OOP: For separate functionality, use separate repositories. Pull tog
 Note: Deployment binaries vs. project assets.
 
 
-## Use offsite storage for very large files
+## Use off-site storage for very large files
 
 Do not version binaries in the repository; reference them from another location.
 
@@ -288,7 +300,7 @@ Choose and use a strategy that suits your deployment model.
 - When merging work: Convert conversations to conclusions.
 
 
-Best Pratices
+Best Practices
 ## Maintenance Strategies
 
 - By default `pull` will `merge`. This is hard to read in a graph.
